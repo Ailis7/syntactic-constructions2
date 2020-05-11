@@ -1,4 +1,4 @@
-import findBy from '../app';
+import findBy from '../findBy';
 
 test('coincidence', () => {
   const finder = findBy('name', 'урон');
